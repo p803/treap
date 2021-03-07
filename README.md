@@ -1,4 +1,4 @@
-# Treap data structure proposal for STL
+# Treap proposal for STL
 This project has been implemented as a part of Advanced Programming Libraries course at Silesian University of Technology taught by prof. Sebastian Deorowicz.
 
 # Benchmark

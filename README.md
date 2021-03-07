@@ -1,14 +1,13 @@
 # Treap proposal for STL
 This project has been implemented as a part of Advanced Programming Libraries course at Silesian University of Technology taught by prof. Sebastian Deorowicz.
 
-# Benchmark
+## Benchmark
 
 ```
 make
 ```
 
-## English dictionary
-
+English dictionary
 ```
 $ ./tests/main < assets/dictionary-en.txt
 Treap
@@ -25,7 +24,7 @@ Unordered set
   count time: 0.654359 ms
 ```
 
-## Polish dictionary
+Polish dictionary
 ```
 $ ./tests/main < assets/dictionary-pl.txt
 Treap
@@ -42,5 +41,5 @@ Unordered set
   count time: 0.91692 ms
 ```
 
-# Documentation
+## Documentation
 [Report [PL]](/docs/Report%20%5BPL%5D.pdf)

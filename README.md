@@ -3,6 +3,7 @@ This project has been implemented as a part of Advanced Programming Libraries co
 
 ## Benchmark
 
+Build
 ```
 make
 ```

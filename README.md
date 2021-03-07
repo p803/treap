@@ -8,7 +8,7 @@ Build
 make
 ```
 
-English dictionary
+Test against english dictionary
 ```
 $ ./tests/main < assets/dictionary-en.txt
 Treap
@@ -25,7 +25,7 @@ Unordered set
   count time: 0.654359 ms
 ```
 
-Polish dictionary
+Test against polish dictionary
 ```
 $ ./tests/main < assets/dictionary-pl.txt
 Treap

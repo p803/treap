@@ -3,12 +3,12 @@ This project has been implemented as a part of Advanced Programming Libraries co
 
 ## Benchmark
 
-Build
+Build:
 ```
 make
 ```
 
-Test against english dictionary
+Test against english dictionary:
 ```
 $ ./tests/main < assets/dictionary-en.txt
 Treap
@@ -25,7 +25,7 @@ Unordered set
   count time: 0.654359 ms
 ```
 
-Test against polish dictionary
+Test against polish dictionary:
 ```
 $ ./tests/main < assets/dictionary-pl.txt
 Treap
